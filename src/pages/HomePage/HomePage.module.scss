@@ -1,0 +1,11 @@
+.container {
+  padding: 20px;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.noCitiesMessage {
+  font-size: 14px;
+  color: #666;
+}

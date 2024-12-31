@@ -1,0 +1,28 @@
+.card {
+  margin-bottom: 16px;
+  width: 360px;
+}
+
+.cardContent {
+  cursor: pointer;
+}
+
+.title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.weatherInfo {
+  font-size: 1rem;
+  margin-bottom: 8px;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+}
+
+.button {
+  width: 45%;
+}
